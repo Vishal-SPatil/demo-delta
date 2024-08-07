@@ -1,2 +1,2 @@
 # demo-delta
-this is my first demo useing git
+this is my first demo useing git.
